@@ -15,7 +15,7 @@
 
         <activity
             android:name=".RankingActivity"
-            android:exported="true">
+            android:parentActivityName=".MainActivity">
         </activity>
 
         <activity
